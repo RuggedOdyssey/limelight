@@ -1,4 +1,4 @@
-package com.github.maiatoday.limelight
+package net.ruggedodyssey.limelight
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

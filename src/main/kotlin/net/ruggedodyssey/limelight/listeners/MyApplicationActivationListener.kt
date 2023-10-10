@@ -1,4 +1,4 @@
-package com.github.maiatoday.limelight.listeners
+package net.ruggedodyssey.limelight.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

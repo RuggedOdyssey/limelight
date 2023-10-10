@@ -1,4 +1,4 @@
-package com.github.maiatoday.limelight.toolWindow
+package net.ruggedodyssey.limelight.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.maiatoday.limelight.MyBundle
-import com.github.maiatoday.limelight.services.MyProjectService
+import net.ruggedodyssey.limelight.MyBundle
+import net.ruggedodyssey.limelight.services.MyProjectService
 import javax.swing.JButton
 
 
